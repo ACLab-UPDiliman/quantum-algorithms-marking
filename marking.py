@@ -126,7 +126,7 @@ print 'CNOT(',control,',',target,') = (',result[0],',',result[1],')'
 
 
 
-
+#sample change
 
 
 
