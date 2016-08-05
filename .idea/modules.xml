@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algo2.iml" filepath="$PROJECT_DIR$/.idea/Algo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DFT Calculator/.idea/DFT Calculator.iml" filepath="$PROJECT_DIR$/../DFT Calculator/.idea/DFT Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../convolution-based-quant-algo/.idea/convolution-based-quant-algo.iml" filepath="$PROJECT_DIR$/../convolution-based-quant-algo/.idea/convolution-based-quant-algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/marking-based-quant-algo.iml" filepath="$PROJECT_DIR$/.idea/marking-based-quant-algo.iml" />
     </modules>
   </component>
 </project>
